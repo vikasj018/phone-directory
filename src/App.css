@@ -13,14 +13,14 @@
     outline: none;
 }
 
-.delete-btn {
-    background: #863d83;
-    color: #863d83;
+.add-btn {
+    background: #7ab97a;
+    color: #fff;
 }
 
 .delete-btn {
-    background: #7ab97a;
-    color: #fff;
+    background: #fa9c9c;
+    color: #000;
 }
 .grid-container {
     display: grid;
